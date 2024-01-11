@@ -8,7 +8,7 @@ import (
 	"encoding/hex"
 	"io"
 
-	"github.com/peterbourgon/diskv/v3"
+	"github.com/misseven0/diskv/v3"
 )
 
 // Cache is an implementation of httpcache.Cache that supplements the in-memory map with persistent storage
